@@ -1,2 +1,2 @@
 # okky-kebab
-website basic html, css, js responsive with boostrap
+website profile company basic html, css, js responsive with boostrap
